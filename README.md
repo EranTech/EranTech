@@ -5,9 +5,6 @@ We are a digital and online software and hardware solutions company based in the
 ## What we do
 We deliver daily solutions to people internationally using our team's deep knowledge in every sector of Cyber Security and Computer Science.
 
-## Contacts
-- contact@erantech.info
-
 # Support
 You can support our business projects by donating via Crypto or PayPal :)
 
@@ -18,3 +15,6 @@ Cryptocurrencies we support:
 - LTC: `LgAUS6gmUgvhijDpQ6y5QXnh7tLKZMCBta`
 
 Contact us via email to donate with PayPal.
+
+## Contacts
+- contact@erantech.info
