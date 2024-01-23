@@ -7,3 +7,14 @@ We deliver daily solutions to people internationally using our team's deep knowl
 
 ## Contacts
 - contact@erantech.info
+
+# Support
+You can support our business projects by donating via Crypto or PayPal :)
+
+Cryptocurrencies we support:
+- BTC: `bc1qpgcn29pappru9e4ejv7svkt9ymfqv3rpm599g0`
+- XMR: `433cjJMNFScKktKe6JYqeGUsy6mfX7o2V9sAgCe7yrMUGz5Ek4cAFM9EZuoL9wvc3qhLHTJgFMTjgbRw6jxmtouPLxtijfG`
+- SOL: `yNSdmbTKFmFP2sCYtQeGYZ8naTpBy7KwgDukw5bUpqL`
+- LTC: `LgAUS6gmUgvhijDpQ6y5QXnh7tLKZMCBta`
+
+Contact us via email to donate with PayPal.
